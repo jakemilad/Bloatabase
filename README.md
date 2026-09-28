@@ -1,4 +1,4 @@
-# Low FODMAP — iOS app
+# Low FODMA
 
 A SwiftUI app for living on a low FODMAP diet: look up foods fast, check whole meals and ingredient labels, track symptoms, and work through the reintroduction phase.
 
